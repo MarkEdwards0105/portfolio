@@ -1,3 +1,5 @@
+//Author: Mark Edwards
+//Problem:
 //Write C++ statement(s) that inlcude the header files iostream and string
 //Write C++ statement(s) that allow you to use cin, cout, endl, without std::
 //Write C++ statement(s) that declare the variables: name(string), studyHours(double)
