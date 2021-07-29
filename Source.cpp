@@ -1,12 +1,10 @@
-//Author: Mark Edwards
-//Programming Exercise 2-1
-//Write a program the produces the following output
-//*************************************************
-//* Programming Assignment 1                      *
-//* Computer Programming 1                        *
-//*				Author: ???                       *
-//* Due Date: Thursday, Jan. 24                   *
-//*************************************************
+//Write a program that produces the following output.
+//CCCCCCCC          ++                ++
+//CC                ++                ++
+//CC           ++++++++++++      ++++++++++++
+//CC           ++++++++++++      ++++++++++++
+//CC                ++                ++
+//CCCCCCCC          ++                ++
 
 #include <iostream>
 
@@ -14,12 +12,11 @@ using namespace std;
 
 int main()
 {
-	cout << "******************************" << endl;
-	cout << "* Programming Assignment 1   *" << endl;
-	cout << "* Computer Programming 1     *" << endl;
-	cout << "* Author: Mark Edwards       *" << endl;
-	cout << "* Due Date: Thursday, Jan.24 *" << endl;
-	cout << "******************************" << endl;
-
+	cout << "CCCCCCCC          ++                ++" << endl;
+	cout << "CC                ++                ++" << endl;
+	cout << "CC           ++++++++++++      ++++++++++++" << endl;
+	cout << "CC           ++++++++++++      ++++++++++++" << endl;
+	cout << "CC                ++                ++" << endl;
+	cout << "CCCCCCCC          ++                ++" << endl;
 	return 0;
 }
