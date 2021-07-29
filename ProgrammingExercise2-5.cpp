@@ -1,3 +1,5 @@
+//Author: Mark Edwards
+//Problem:
 //Consider the following C++ program in which the statements are in
 //the incorrect order. Rearrange the statements so that it prompts the user
 // to input the radius of a circle and outputs the area and circumference of 
