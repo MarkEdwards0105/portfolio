@@ -1,3 +1,5 @@
+//Author: Mark Edwards
+//Problem:
 //Write a program that produces the following output.
 //CCCCCCCC          ++                ++
 //CC                ++                ++
