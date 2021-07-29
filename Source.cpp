@@ -1,3 +1,5 @@
+//Author: Mark Edwards
+//Programming Exercise 2-1
 //Write a program the produces the following output
 //*************************************************
 //* Programming Assignment 1                      *
@@ -15,7 +17,7 @@ int main()
 	cout << "******************************" << endl;
 	cout << "* Programming Assignment 1   *" << endl;
 	cout << "* Computer Programming 1     *" << endl;
-	cout << "* Author: Prog Let's Plays   *" << endl;
+	cout << "* Author: Mark Edwards       *" << endl;
 	cout << "* Due Date: Thursday, Jan.24 *" << endl;
 	cout << "******************************" << endl;
 
