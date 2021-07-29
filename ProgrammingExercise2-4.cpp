@@ -1,4 +1,7 @@
+//Author: Mark Edwards
+//Problem:
 //Exercise 3, but using doubles and double numbers
+//The program gets three numbers and prints out the average
 
 #include <iostream>
 
